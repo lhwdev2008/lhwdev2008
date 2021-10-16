@@ -1,5 +1,5 @@
 # Hi!
-I am lhwdev2008 😁. Member of [AppDevelopers2021](https://github.com/AppDevelopers2021).
+I am Jacob Lim 😁. Member of [AppDevelopers2021](https://github.com/AppDevelopers2021).
 I'm currently using Android Studio or Eclipse(Sometimes) with JAVA. (Not Kotlin 😢)
 🎈 If you are interested, please contact me or check AppDeveopers2021's repositories! 
 
