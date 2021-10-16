@@ -1,7 +1,8 @@
 # Hi!
 I am Jacob Lim 😁. Member of [AppDevelopers2021](https://github.com/AppDevelopers2021).
 I'm currently using Android Studio or Eclipse(Sometimes) with JAVA. (Not Kotlin 😢)
-🎈 If you are interested, please contact me or check AppDeveopers2021's repositories! 
+🎈 If you are interested, please contact me or check AppDeveopers2021's repositories!
+In order to see my Google Dev badges, [Click HERE!](https://developers.google.com/profile/u/105526460431397087160)
 
 ## Studia Project
 Studia is a study planning system which is being developed by AppDevelopers2021.
