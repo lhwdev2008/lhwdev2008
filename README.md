@@ -24,4 +24,4 @@ Firebase 🔥 is Web & App Development Platform. You can use some DATABASE 💾 
 
 ## Contact 📞
 Email 📧: lhwdev2008@gmail.com
-💬 AppDevelopers2021 Email: wonchonappdevl@gmail.com
+💬 AppDevelopers2021 Email: jacoblim@studia.blue
