@@ -9,7 +9,7 @@ Studia is a study planning system which is being developed by AppDevelopers2021.
 This app helps users to access their calendar everywhere with web and apps.  
 
 💻 Official Website: https://studia.blue  
-Apps(Android & IOS): In Development... 🔧   
+App(Android): In Development... 🔧   
 Will be released at the end of 2021  
 
     public String Studia;
