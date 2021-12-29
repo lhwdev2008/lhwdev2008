@@ -14,7 +14,7 @@ App(Android): In Development... 🔧
 Will be released at the end of 2021  
 
     public String Studia;
-    Studia = "Still Developing 😢"
+    Studia = "Still Developing 😢";
     tv.setText(Studia);
 
 Here is Android Studia app Repository 🔎 ▶ https://github.com/AppDevelopers2021/androidStudia  
