@@ -1,1 +1,1 @@
-🇺🇦 IT Army of Ukraine 💻
+🚀 Java != Rocket Science
